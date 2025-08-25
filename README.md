@@ -14,3 +14,10 @@
     <img src="https://skillicons.dev/icons?i=nodejs,bun,lua,python,linux,docker,neovim,postgres,prisma" />
   </a>
 </p>
+
+## It's Bob, I regurarly feed it
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kreoniz/Kreoniz/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kreoniz/Kreoniz/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kreoniz/Kreoniz/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
