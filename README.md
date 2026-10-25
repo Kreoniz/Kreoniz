@@ -1,23 +1,21 @@
-# It's me
+# Hi, I'm Egor.
 
-- **Building** software
-- **Polishing** the look and feel of web apps
-- **Keeping up to date** with modern software trends
+I build web apps, developer tools, and the occasional project that started as "this should be quick."
 
-<p opacity="0.5">Nothing much</p>
+I care about the small details in interfaces—and increasingly about the systems underneath them. My background is in frontend development; lately I've been exploring Go, Linux, and AI agents.
 
+### A project
 
-## Some of the tech I've used
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwindcss,webpack,vite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,lua,python,linux,docker,neovim,postgres,prisma" />
-  </a>
-</p>
+- **[Unlikely UI](https://www.npmjs.com/package/unlikely-ui)** — an experimental React component library built with Base UI and Tailwind CSS.
 
-## It's Bob, I regurarly feed it
+More experiments live in [my repositories](https://github.com/Kreoniz?tab=repositories).
+
+### Bob
+
+I feed Bob commits. Bob has no concept of gratitude.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kreoniz/Kreoniz/refs/heads/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kreoniz/Kreoniz/refs/heads/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kreoniz/Kreoniz/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="Bob the snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Kreoniz/Kreoniz/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
