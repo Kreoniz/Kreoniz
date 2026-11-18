@@ -4,9 +4,11 @@ I build web apps, developer tools, and the occasional project that started as "t
 
 I care about the small details in interfaces—and increasingly about the systems underneath them. My background is in frontend development; lately I've been exploring Go, Linux, and AI agents.
 
-### A project
+### UI work
 
-- **[Unlikely UI](https://www.npmjs.com/package/unlikely-ui)** — an experimental React component library built with Base UI and Tailwind CSS.
+I'm building a custom UI theme and packaging its design tokens and usage guidance as a skill for coding agents.
+
+[Unlikely UI](https://www.npmjs.com/package/unlikely-ui) was an earlier experiment in building a React component library with Base UI and Tailwind CSS.
 
 More experiments live in [my repositories](https://github.com/Kreoniz?tab=repositories).
 
